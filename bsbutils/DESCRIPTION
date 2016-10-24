@@ -1,0 +1,12 @@
+Package: bsbutils
+Type: Package
+Title: Utilities of common usage in the BSB
+Version: 1.0
+Date: 2012-06-06
+Author: Roberto
+Maintainer: Roberto <robergy@gmail.com>
+Description: We will keep adding features to this package
+License: GPL
+LazyLoad: yes
+Depends: Rcpp (>= 0.9.5)
+LinkingTo: Rcpp
